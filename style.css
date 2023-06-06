@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(174, 174, 241);
+}
+  
+h1 {
+    text-align: center;
+}
+  
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+  
+input, button {
+    margin-bottom: 10px;
+    border-radius: 25px;
+}
+  
+#result {
+    margin-top: 10px;
+}
+
+.border {
+    border: 2px solid;
+    border-radius: 25px;
+    height: 370px;
+    width: 350px;
+}
+
+  
+
